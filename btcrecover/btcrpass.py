@@ -1,5 +1,5 @@
 # btcrpass.py -- btcrecover main library
-# Copyright (C) 2014-2017 Christopher Gurnee
+# Copyright (C) 2014-2026 mrsmookie
 #
 # This file is part of btcrecover.
 #
@@ -19,7 +19,7 @@
 # If you find this program helpful, please consider a small
 # donation to the developer at the following Bitcoin address:
 #
-#           3Au8ZodNHPei7MQiSVAWb7NB2yqsb48GW4
+#           bc1qmrhlfyrupmx5q58nv5x94mchmru0jqtwhycllj
 #
 #                      Thank You!
 
