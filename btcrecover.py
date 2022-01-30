@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 # btcrecover.py -- Bitcoin wallet password recovery tool
-# Copyright (C) 2014-2026 mrsmookie
+# Copyright (C) 2014-2027 mrsmookie
 #
 # This program is free software: you can redistribute it and/or
 # modify it under the terms of the GNU General Public License
