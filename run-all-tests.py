@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 # run-all-tests.py -- runs *all* btcrecover tests
-# Copyright (C) 2016, 2026 mrsmookie
+# Copyright (C) 2016, 2027 mrsmookie
 #
 # This file is part of btcrecover.
 #
