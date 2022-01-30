@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # test_passwords.py -- unit tests for btcrecover.py
-# Copyright (C) 2014-2026 mrsmookie
+# Copyright (C) 2014-2027 mrsmookie
 #
 # This file is part of btcrecover.
 #
